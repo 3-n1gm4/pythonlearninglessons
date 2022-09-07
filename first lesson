@@ -1,5 +1,3 @@
-#!/bin/python3
-
 #Print string
 print("Hello, world!") #double quote
 print('\n') #new line
