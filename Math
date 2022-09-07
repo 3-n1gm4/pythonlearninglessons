@@ -1,5 +1,3 @@
-#!/bin/python3
-
 #Math
 print(50 + 50) #add
 print(50 - 50) #subtract
