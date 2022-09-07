@@ -1,0 +1,23 @@
+#Variables and Methods
+quote = "I can, I will, I must."
+print(quote.upper()) #all uppercase
+print(quote.lower()) #all lowercase
+print(quote.title()) #title case
+
+print(len(quote)) #get the length of quote
+
+name = "Greg" #string
+age = 39 #integer
+gpa = 3.7 #float
+
+print(int(age))
+print(int(39.2))
+
+print( "My name is " + name + " and I am " = str(age) + " years old.")
+
+age += 1
+print(age)
+
+birthday = 1
+age += birthday
+print(age)
